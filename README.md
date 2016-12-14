@@ -1,9 +1,9 @@
 # StylishStartup
 細字を活用したスタイリッシュ風なkeynoteテンプレートです。ご自由にご活用ください
 
-* Teema_StylishStartup
+* Teema_StylishStartup.kth
  * keynoteのテーマファイルです、こちらをお手持ちのkyenoteにインポートしてご利用ください
-* StylishStartup.zip
+* StylishStartup.key
  * 上記テーマをそのままページにしたものです、上記が使えなかった場合にご使用ください（ファイルサイズが重いのでご注意）
   
 
